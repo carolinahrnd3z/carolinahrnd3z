@@ -3,7 +3,7 @@
 🏫 Computer science student @ UNC Charlotte <br>
 🌷 Passionate about front-end web development and ui/ux design <br>
 🛠️ Currently working on building personal portfolio website <br>
-📧 Let's connect on [LinkedIn](www.linkedin.com/in/carolina-hernandez-lopez)! <br>
+📧 Let's connect on [LinkedIn](https://linkedin.com/in/carolina-hernandez-lopez)! <br>
 
 
 # 💻 Tech Stack:
